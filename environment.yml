@@ -6,3 +6,7 @@ dependencies:
   - matplotlib
   - ipywidgets
   - ipympl
+  - bqplot
+  - ipyvolume
+  - scipy
+  - voila
