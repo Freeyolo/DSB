@@ -7,4 +7,4 @@ Risk acceptance criteria visualizer [![Binder](https://mybinder.org/badge_logo.s
 
 Available on Heroku: 
 
-https://damp-gorge-56186.herokuapp.com/
+https://risiko-visualisering.herokuapp.com/
