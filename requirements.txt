@@ -6,3 +6,4 @@ bqplot
 ipyvolume
 scipy
 voila
+jinja2==3.0.1
