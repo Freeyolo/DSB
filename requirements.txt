@@ -6,4 +6,5 @@ bqplot
 ipyvolume
 scipy
 voila
+voila-material
 jinja2==3.0.1
