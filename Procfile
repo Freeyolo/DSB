@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser "Risk visualizer.ipynb"
+web: voila --port=$PORT --no-browser --enable_nbextensions=True "Risk visualizer.ipynb"
